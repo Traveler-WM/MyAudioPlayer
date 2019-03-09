@@ -9,5 +9,5 @@
    
 ## Show
 
-![show](https://github.com/Traveler-WM/music-player/tree/master/img/show.PNG)
+![show](https://github.com/Traveler-WM/music-player/blob/master/img/show.jpg)
    
